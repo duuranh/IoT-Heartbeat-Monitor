@@ -1,6 +1,6 @@
 // IoT Heartbeat Monitor - Scenario 2 (MQTT)
 // Author: Alecsei Ivanov da Costa e Víctor Céspedes Duran
-// OBJETOS INTELIGENTES CONECTADOS
+// PRATICA PROFISSIONAL EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS
 
 #include <WiFi.h>
 #include <PubSubClient.h>
